@@ -1,5 +1,6 @@
 <h1 align="center">Yangjihun</h1>
 
+---
 
 ## 💻 Skills
 
@@ -26,7 +27,6 @@
 - 🧠 Next.js
 - 🐳 Docker
 - ☁️ AWS (EC2, S3, RDS)
-- ⚙️ CI/CD (GitHub Actions, Vercel)
 
 ---
 
@@ -36,7 +36,13 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yangjihun&theme=dark)
+<!-- 아래 중 하나를 선택하세요 -->
+
+<!-- 기본 Heroku 버전 (안 보일 수도 있음) -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yangjihun&theme=dark) -->
+
+<!-- 안정적인 Vercel 대체 버전 -->
+![GitHub Streak](https://streak-stats.demolab.com?user=yangjihun&theme=dark)
 
 ---
 
