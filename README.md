@@ -1,11 +1,11 @@
 <h1 align="center">Yangjihun</h1>
-<h3 align="center">Frontend-focused Web Developer who loves building clean and functional UIs ⚛️</h3>
+<h3 align="center">Frontend-focused Web Developer ⚛️</h3>
 
 <br/>
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=dark&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=dark&langs_count=6" style="margin-left: 30px;" />
 </div>
 
 ---
@@ -28,6 +28,10 @@
 ### 🛠 Back-End & Database
 <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
+
+### ☁️ Deployment
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 ---
 
