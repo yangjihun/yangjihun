@@ -1,4 +1,12 @@
 <h1 align="center">Yangjihun</h1>
+<h3 align="center">Frontend-focused Web Developer who loves building clean and functional UIs ⚛️</h3>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=dark&langs_count=6" />
+</div>
 
 ---
 
@@ -27,22 +35,6 @@
 - 🧠 Next.js
 - 🐳 Docker
 - ☁️ AWS (EC2, S3, RDS)
-
----
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=dark&langs_count=6)
-
----
-
-## 🔥 GitHub Streak
-<!-- 아래 중 하나를 선택하세요 -->
-
-<!-- 기본 Heroku 버전 (안 보일 수도 있음) -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yangjihun&theme=dark) -->
-
-<!-- 안정적인 Vercel 대체 버전 -->
-![GitHub Streak](https://streak-stats.demolab.com?user=yangjihun&theme=dark)
 
 ---
 
