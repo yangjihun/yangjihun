@@ -1,6 +1,5 @@
 <h1 align="center">Yangjihun</h1>
 
----
 
 ## 💻 Skills
 
