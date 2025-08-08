@@ -1,13 +1,10 @@
-<h1 align="center">Yangjihun</h1>
-<h3 align="center">Frontend-focused Web Developer ⚛️</h3>
+<h1>Yangjihun</h1>
+<h3>Frontend-focused Web Developer ⚛️</h3>
 
+<img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
 <br/>
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
-  <br/>
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=dark&langs_count=6" />
-</div>
+<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=dark&langs_count=6" />
 ---
 
 ## 💻 Skills
