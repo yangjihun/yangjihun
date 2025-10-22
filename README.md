@@ -3,7 +3,10 @@
 <h3 align=center>Front-end focused Web Developer⚛️</h3>
 
 <hr/>
-<img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
+<div>
+  <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410)](https://solved.ac/yjhn0410)
+</div>
 <br/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=github_dark&langs_count=6" />
