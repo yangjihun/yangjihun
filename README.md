@@ -28,6 +28,7 @@
 - 🧠 Next.js
 - 🐳 Docker
 - ☁️ AWS (EC2, S3, RDS)
+- 🅿️ php (Laravel)
 
 ---
 
