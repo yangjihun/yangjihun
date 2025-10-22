@@ -8,7 +8,7 @@
   <hr/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=github_dark&langs_count=6" />
-  <br/><br/>
+  <br/>
   
   <!-- Solved.ac -->
   <a href="https://solved.ac/yjhn0410">
