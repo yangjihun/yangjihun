@@ -1,5 +1,6 @@
-<h2>I'm Yangjihun</h2>
-<h3>Front-end focused Web Developer⚛️</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun's%20GitHub&fontSize=42" />
+
+<h3 align=center>Front-end focused Web Developer⚛️</h3>
 
 <hr/>
 <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
