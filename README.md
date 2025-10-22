@@ -11,11 +11,7 @@
   <a href="https://solved.ac/yjhn0410">
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" alt="Solved.ac Profile" />
   </a>
-
-  <!-- GitHub Streak -->
-  <br/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" width="50%" />
-
+  
   <!-- GitHub Stats -->
   <br/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=github_dark&langs_count=6" />
