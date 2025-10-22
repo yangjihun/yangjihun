@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=130&section=header&text=Jihun&fontColor=fff&fontSize=40&fontAlignY=45)
+<header>
+  <h2>I'm Yangjihun</h2>
+</header>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+focused+Web+Developer+⚛️&color=f39c12)](https://git.io/typing-svg)
+<h3>Front-end focused Web Developer⚛️</h3>
 
 
 <hr/>
