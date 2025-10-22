@@ -1,4 +1,4 @@
-<h1>Yangjihun</h1>
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Jihun&fontSize=70)
 <h3>Frontend-focused Web Developer ⚛️</h3>
 <hr/>
 <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
