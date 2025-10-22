@@ -1,19 +1,9 @@
-<picture>
-  <!-- 다크 모드 -->
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun's%20GitHub&fontSize=42&fontColor=ffffff" />
-  
-  <!-- 라이트 모드 -->
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun's%20GitHub&fontSize=42&fontColor=000000" />
-  
-  <!-- 기본 이미지 -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun's%20GitHub&fontSize=42" 
-    alt="header" />
-</picture>
+<!-- 라이트 모드 -->
+![header-light](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun%27s%20GitHub&fontSize=42&fontColor=000000#gh-light-mode-only)
+
+<!-- 다크 모드 -->
+![header-dark](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun%27s%20GitHub&fontSize=42&fontColor=ffffff#gh-dark-mode-only)
+
 
 <h3 align=center>Front-end focused Web Developer⚛️</h3>
 
