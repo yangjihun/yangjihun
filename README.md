@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=200&section=header&text=Jihun&fontColor=ff6f91&fontSize=60&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=200&section=header&text=Jihun&fontColor=fff&fontSize=60&fontAlignY=45)
 
 <h3 align="">Frontend-focused Web Developer ⚛️</h3>
 
