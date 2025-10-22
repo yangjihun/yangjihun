@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=200&section=header&text=Jihun&fontColor=fff&fontSize=60&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=200&section=header&text=Jihun&fontColor=fff&fontSize=40&fontAlignY=45)
 
-<h3 align="">Frontend-focused Web Developer ⚛️</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+focused+Web+Developer+⚛️;Second+line+of+text&color=f39c12)](https://git.io/typing-svg)
+
 
 <hr/>
 <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
