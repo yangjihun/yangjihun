@@ -3,9 +3,11 @@
 <h3 align=center>Front-end focused Web Developer⚛️</h3>
 
 <hr/>
-<div>
+<div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410)](https://solved.ac/yjhn0410)
+  <a href="https://solved.ac/yjhn0410">
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" alt="Solved.ac Profile"/>
+  </a>
 </div>
 <br/>
 <div>
