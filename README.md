@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=200&section=header&text=Jihun&fontColor=fff&fontSize=40&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=130&section=header&text=Jihun&fontColor=fff&fontSize=40&fontAlignY=45)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+focused+Web+Developer+⚛️;Second+line+of+text&color=f39c12)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+focused+Web+Developer+⚛️&color=f39c12)](https://git.io/typing-svg)
 
 
 <hr/>
