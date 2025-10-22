@@ -16,10 +16,10 @@
   </a>
   
   <!-- GitHub Stats -->
-  <br/><br/>
+  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yangjihun&show_icons=true&theme=github_dark" />
 
-  <br/><br/>
+  <br/>
   <hr/>
 
   <!-- Skills -->
