@@ -6,7 +6,7 @@
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" width = "50%" height="120%" />
   <a href="https://solved.ac/yjhn0410">
-    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" alt="Solved.ac Profile" width = "50%" height="120%" />
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" alt="Solved.ac Profile" />
   </a>
 </div>
 <br/>
