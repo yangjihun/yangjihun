@@ -1,9 +1,5 @@
-<header>
-  <h2>I'm Yangjihun</h2>
-</header>
-
+<h2>I'm Yangjihun</h2>
 <h3>Front-end focused Web Developer⚛️</h3>
-
 
 <hr/>
 <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
