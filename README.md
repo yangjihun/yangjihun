@@ -1,9 +1,4 @@
-<!-- 라이트 모드 -->
 ![header-light](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun%27s%20GitHub&fontSize=42&fontColor=000000#gh-light-mode-only)
-
-<!-- 다크 모드 -->
-![header-dark](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun%27s%20GitHub&fontSize=42&fontColor=ffffff#gh-dark-mode-only)
-
 
 <h3 align=center>Front-end focused Web Developer⚛️</h3>
 
