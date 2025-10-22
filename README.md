@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=200&section=header&text=Jihun&fontColor=00ffcc&fontSize=60&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9e3e3&height=200&section=header&text=Jihun&fontColor=ff6f91&fontSize=60&fontAlignY=45)
 
-<h3 align="center">Frontend-focused Web Developer ⚛️</h3>
+<h3 align="">Frontend-focused Web Developer ⚛️</h3>
 
 <hr/>
 <img height="180em" src="https://streak-stats.demolab.com?user=yangjihun&theme=dark" />
