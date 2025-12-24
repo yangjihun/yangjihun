@@ -14,7 +14,7 @@
 <a href="mailto:yjhn0410@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="[https://solved.ac/yjhn0410](https://solved.ac/profile/yjhn0410)">
+<a href="https://solved.ac/profile/yjhn0410">
   <img src="https://img.shields.io/badge/Solved.ac-2E8B57?style=for-the-badge&logo=spoj&logoColor=white" />
 </a>
 
