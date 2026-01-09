@@ -1,7 +1,4 @@
-<!-- 헤더 -->
-![header-light](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yangjihun%27s%20GitHub&fontSize=42&fontColor=000000#gh-light-mode-only)
-
-### Front-end focused Web Developer ⚛️
+![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v2?name=Yang%20Jihun&job=Software%20Engineer%20-%20Web&company=Gachon-Univ.&address=Suwon-si&about=Passionate%20fintech%20developer&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EC%25A7%2580%25ED%259B%2588-%25EC%2596%2591-9b49733a1%2F&github=https%3A%2F%2Fgithub.com%2Fyangjihun&linkedin_color=%230077B5)
 
 ---
 
@@ -18,7 +15,6 @@
   </a>
 </p>
 
-![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v2?name=Yang%20Jihun&job=Software%20Engineer%20-%20Web&company=Gachon-Univ.&address=Suwon-si&about=Passionate%20fintech%20developer&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EC%25A7%2580%25ED%259B%2588-%25EC%2596%2591-9b49733a1%2F&github=https%3A%2F%2Fgithub.com%2Fyangjihun&linkedin_color=%230077B5)
 
 ---
 
