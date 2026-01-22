@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white" />
 </div>
 
-<h2 align="center">🛠 Back-End & Database🧠 Languages</h2>
+<h2 align="center">🛠 Back-End & Database</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
