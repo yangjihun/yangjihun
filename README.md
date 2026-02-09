@@ -99,7 +99,3 @@
 <a href="mailto:yjhn0410@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID/](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%96%91-9b49733a1/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
