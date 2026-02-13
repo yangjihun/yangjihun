@@ -41,9 +41,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangjihun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yangjihun&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yangjihun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
