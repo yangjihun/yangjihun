@@ -26,10 +26,17 @@
 ---
 
 ## 💼 Currently
+
+#### 2026
 - 🦁 **AI SSAFY 15기** (2026.01 ~ 진행중)
-- 🎓 **가천대학교 금융수학과 전공 · 소프트웨어학과 복수전공** (2020.03 ~ 2026.02)
+
+#### 2025
 - 🧑‍🤝‍🧑 **가천대학교 금융수학과 IT 동아리 COMMIT 창립 · 동아리장** (2025.09 ~ 2026.02)
 - 💡 **가천대 카카오 엔터프라이즈 SW 아카데미 7기** (2025.09 ~ 2025.12)
+- 🏁 **ZetaChain Korea 개발 해커톤** (2025.08)
+- 🌐 **XRPL 앰배서더 개발팀** (2025.05 ~ 2025.07)
+- ⛓️ **가천대학교 블록체인 학회 Gairos 학회원** (2025.03 ~ 2025.08)
+- 🛠️ **(주) 일릭서 빅데이터 분석 자동화 서비스 개발 해커톤** (2025.01 ~ 2025.02)
 
 ## 👋 About
 - 프론트엔드부터 백엔드까지 흐름을 연결해 **사용자에게 전달되는 가치를 끝까지 만들어내는 것**을 좋아합니다.
@@ -47,10 +54,16 @@
 
 ---
 
-## 🧠 Algorithm
-<a href="https://solved.ac/profile/yjhn0410">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" />
-</a>
+## 🧠 Algorithm · ✍️ Blog
+
+<div align="center">
+  <a href="https://solved.ac/profile/yjhn0410">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" height="140" />
+  </a>
+  <a href="https://velog.io/@yangjihun">
+    <img src="https://velog-readme-stats.vercel.app/api?name=yangjihun" height="200" />
+  </a>
+</div>
 
 ---
 
@@ -107,60 +120,23 @@
 
 ## 🚀 Projects
 
-### Featured
-- **RE:MIT** (Fullstack, 2025.10 ~ 운영중)  
-  금융수학과 스터디룸(622호) 예약 및 관리 시스템  
-  `PHP · Laravel · MySQL`  
-  🔗 Repo: https://github.com/Re-mit/Remit  
-  🔗 Detail: https://yangjihun.netlify.app/projects/re-mit
-  
-- **Loventure** (Frontend, 2025.09 ~ 2025.10)  
-  AI가 커플의 취향/컨디션을 분석해 **서울 맞춤 데이트 코스**를 추천하는 웹 서비스  
-  `React 19 · TypeScript · Vite · TanStack Query · Zustand · Mapbox GL JS · Tailwind · MSW`  
-  🔗 Demo: https://loventure.us  
-  🔗 Repo: https://github.com/PitterPetter/PitterPetter_FE  
-  🔗 Detail: https://yangjihun.netlify.app/projects/loventure
+## 🚀 Projects
 
-- **COMMIT** (Fullstack, 2025.08 ~ 운영중)  
-  IT 동아리 COMMIT 공식 홈페이지(소개/스터디/프로젝트 포트폴리오 관리)  
-  `React 19 · TypeScript · Vite · Tailwind · Node.js`  
-  🔗 Demo: https://fm-commit.com  
-  🔗 Repo: https://github.com/yangjihun/FM-COMMIT  
-  🔗 Detail: https://yangjihun.netlify.app/projects/commit-club
+### Featured
+| Project | Role / Period | Description | Tech | Links |
+|---|---|---|---|---|
+| **RE:MIT** | Fullstack · 2025.10 ~ 운영중 | 금융수학과 스터디룸(622호) 예약 및 관리 시스템 | PHP · Laravel · MySQL | [Repo](https://github.com/Re-mit/Remit)<br/>[Detail](https://yangjihun.netlify.app/projects/studyroom-reservation) |
+| **Loventure** | Frontend · 2025.09 ~ 2025.10 | AI가 커플의 취향/컨디션을 분석해 서울 맞춤 데이트 코스를 추천하는 웹 서비스 | React 19 · TypeScript · Vite · TanStack Query · Zustand · Mapbox GL JS · Tailwind · MSW | [Demo](https://loventure.us)<br/>[Repo](https://github.com/PitterPetter/PitterPetter_FE)<br/>[Detail](https://yangjihun.netlify.app/projects/loventure) |
+| **COMMIT** | Fullstack · 2025.08 ~ 운영중 | IT 동아리 COMMIT 공식 홈페이지(소개/스터디/프로젝트 포트폴리오 관리) | React 19 · TypeScript · Vite · Tailwind · Node.js | [Demo](https://fm-commit.com)<br/>[Repo](https://github.com/yangjihun/FM-COMMIT)<br/>[Detail](https://yangjihun.netlify.app/projects/commit-club) |
 
 ### More
-- **Vitamin-7** (Frontend, 2025.10 ~ 2025.12) — B2B 챗봇 운영 관리자 페이지  
-  `Next.js · React · TypeScript · Zustand · TanStack Query · Tailwind · Radix UI · Sentry`  
-  🔗 Detail: https://yangjihun.netlify.app/projects/vitamin-7-admin
-  
-- **DreamMap** (Fullstack, 2025.07 ~ 2025.08)  
-  이력서 업로드 → AI 점수/리뷰/리라이팅 + **커리어 로드맵** 제안 서비스  
-  `React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence`  
-  🔗 FE: https://github.com/yangjihun/DreamMap-fe  
-  🔗 BE: https://github.com/yangjihun/DreamMap-be  
-  🔗 Detail: https://yangjihun.netlify.app/projects/dreammap
-
-- **XRPL EYES** (Frontend, 2025.06 ~ 2025.07) — XRPL 기반 서비스 UAW 대시보드  
-  `React · TypeScript · Vite · Recharts · Tailwind · MSW`
-  🔗 Repo: https://github.com/yangjihun/xrpl-eyes  
-  🔗 Detail: https://yangjihun.netlify.app/projects/xrpl-eyes
-
-- **SuME** (Frontend, 2025.01 ~ 2025.02) — 회의 음성 요약 & 캘린더 연동  
-  `React · Tailwind · React Router · FullCalendar`  
-  🔗 Repo: https://github.com/yangjihun/SuME  
-  🔗 Detail: https://yangjihun.netlify.app/projects/sume
-
-- **JOB.PT** (LLM Engineer & Team Leader, 2024.11 ~ 2024.12) — 트렌드 기반 직업/역량 추천 Streamlit 앱  
-  `Python · Streamlit · OpenAI API (gpt-4o-mini)`  
-  🔗 Repo: https://github.com/yangjihun/JOB.PT  
-  🔗 Detail: https://yangjihun.netlify.app/projects/jobpt
-
----
-
-## ✍️ Blog
-<a href="https://velog.io/@yangjihun">
-  <img src="https://velog-readme-stats.vercel.app/api?name=yangjihun" />
-</a>
+| Project | Role / Period | Description | Tech | Links |
+|---|---|---|---|---|
+| **Vitamin-7** | Frontend · 2025.10 ~ 2025.12 | B2B 챗봇 운영 관리자 페이지 | Next.js · React · TypeScript · Zustand · TanStack Query · Tailwind · Radix UI · Sentry | [Detail](https://yangjihun.netlify.app/projects/vitamin-7-admin) |
+| **DreamMap** | Fullstack · 2025.07 ~ 2025.08 | 이력서 업로드 → AI 점수/리뷰/리라이팅 + 커리어 로드맵 제안 서비스 | React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence | [FE](https://github.com/yangjihun/DreamMap-fe)<br/>[BE](https://github.com/yangjihun/DreamMap-be)<br/>[Detail](https://yangjihun.netlify.app/projects/dreammap) |
+| **XRPL EYES** | Frontend · 2025.06 ~ 2025.07 | XRPL 기반 서비스 UAW 대시보드 | React · TypeScript · Vite · Recharts · Tailwind · MSW | [Repo](https://github.com/yangjihun/xrpl-eyes)<br/>[Detail](https://yangjihun.netlify.app/projects/xrpl-eyes) |
+| **SuME** | Frontend · 2025.01 ~ 2025.02 | 회의 음성 요약 & 캘린더 연동 | React · Tailwind · React Router · FullCalendar | [Repo](https://github.com/yangjihun/SuME)<br/>[Detail](https://yangjihun.netlify.app/projects/sume) |
+| **JOB.PT** | LLM Engineer & Team Leader · 2024.11 ~ 2024.12 | 트렌드 기반 직업/역량 추천 Streamlit 앱 | Python · Streamlit · OpenAI API (gpt-4o-mini) | [Repo](https://github.com/yangjihun/JOB.PT)<br/>[Detail](https://yangjihun.netlify.app/projects/jobpt) |
 
 ---
 
