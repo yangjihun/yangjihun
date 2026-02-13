@@ -1,101 +1,176 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Yang%20Jihun&fontSize=50&fontColor=fff" />
 
 <div align="center">
 
-![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v2?name=Yang%20Jihun&job=Software%20Engineer%20-%20Web&company=Gachon-Univ.&address=Suwon-si&about=Passionate%20fintech%20developer&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25EC%25A7%2580%25ED%259B%2588-%25EC%2596%2591-9b49733a1%2F&github=https%3A%2F%2Fgithub.com%2Fyangjihun&linkedin_color=%230077B5)
+### Fullstack Developer  
+추진력과 커뮤니케이션으로 서비스를 안정적으로 완성합니다.
 
+<a href="https://yangjihun.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="https://velog.io/@yangjihun">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yangjihun">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yjhn0410@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://solved.ac/yjhn0410">
-    <img
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410"
-      alt="Solved.ac Profile"
-    />
-  </a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yangjihun&color=brightgreen" alt="Profile Views" />
 
+</div>
+
+---
+
+## 💼 Currently
+- 🦁 **AI SSAFY 15기** (2026.01 ~ 진행중)
+- 🎓 **가천대학교 금융수학과 전공 · 소프트웨어학과 복수전공** (2020.03 ~ 2026.02)
+- 🧑‍🤝‍🧑 **가천대학교 금융수학과 IT 동아리 COMMIT 창립 · 동아리장** (2025.09 ~ 2026.02)
+- 💡 **가천대 카카오 엔터프라이즈 SW 아카데미 7기** (2025.09 ~ 2025.12)
+
+## 👋 About
+- 프론트엔드부터 백엔드까지 흐름을 연결해 **사용자에게 전달되는 가치를 끝까지 만들어내는 것**을 좋아합니다.
+- 제품 관점에서 문제를 정의하고, **구현 → 개선**까지 이어지도록 구조를 잡는 데 관심이 많습니다.
+- 백엔드와 **AI 활용**까지 꾸준히 확장 중입니다.
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangjihun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yangjihun&show_icons=true&theme=github_dark"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=github_dark&langs_count=6"
-    alt="Top Langs"
-  />
-
-  <br/><br/>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yangjihun&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjihun&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yangjihun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 💻 Skills
-
-<h2 align="center">🧠 Languages</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
-</div>
-
-<h2 align="center">⚛️ Front-End</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=Vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white" />
-</div>
-
-<h2 align="center">🛠 Back-End & Database</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
-</div>
-
-<h2 align="center">☁️ Deployment</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
+## 🧠 Algorithm
+<a href="https://solved.ac/profile/yjhn0410">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" />
+</a>
 
 ---
 
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-000000?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-000000?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF" />
+</p>
+
+### Backend & DB
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
+  <img src="https://img.shields.io/badge/Prettier-000000?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
+  <img src="https://img.shields.io/badge/MSW-000000?style=for-the-badge&logo=mockserviceworker&logoColor=FF6A33" />
+</p>
+
+### AI Agents
+- ChatGPT · Cursor · Gemini · Claude
+
+---
 
 ## 📚 Currently Learning
-- 🧠 Spring  
-- 🐳 Docker  
-- ☁️ AWS (EC2, S3, RDS)  
+- Spring
+- Docker
+- ☁️ AWS (EC2, S3, RDS)
 
 ---
 
-## Projects
-| 이름 | 설명 | 역할 | 기간 | 진행도 |
-|:---:|:---:|:---:|:---:|:---:|
-| RE:MIT | 금융수학과 스터디룸 예약 시스템 | Fullstack | 2025-10 ~ 2026.01 | 진행중 |
-| Vitamin-7 | AI Chatbot 운영 관리자 페이지 | Frontend | 2025.10 ~ 2025.12 | 완료 |
-| Loventure | AI 기반 데이트 코스 추천 서비스 | Frontend | 2025.09 ~ 2025.10 | 완료 |
-| COMMIT | 금융수학과 IT 동아리 COMMIT 공식 홈페이지 | Fullstack | 2025.08 ~ 진행중 | 운영중 |
-| DreamMap | 이력서 분석 및 로드맵 제안 서비스 | Fullstack | 2025.07 ~ 2025.08 | 완료 |
-| XRPL EYES | XRPL 기반 서비스들의 UAW 대시보드 | Frontend | 2025.06 ~ 2025.07 | 완료 |
-| SuME | 회의 음성 요약 및 캘린더 연동 서비스 | Frontend | 2025.01 ~ 2025.02 | 완료 |
-| JOB.PT | 논문·뉴스 트렌드 기반 직업/역량 추천 Streamlit 앱 | LLM Engineer | 2024.11 ~ 2024.12 | 완료 |
+## 🚀 Projects
 
+### Featured
+- **Loventure** (Frontend, 2025.09 ~ 2025.10)  
+  AI가 커플의 취향/컨디션을 분석해 **서울 맞춤 데이트 코스**를 추천하는 웹 서비스  
+  `React 19 · TypeScript · Vite · TanStack Query · Zustand · Mapbox GL JS · Tailwind · MSW`  
+  🔗 Demo: https://loventure.us  
+  🔗 Repo: https://github.com/PitterPetter/PitterPetter_FE  
+  🔗 Detail: https://yangjihun.netlify.app/projects/loventure
+
+- **DreamMap** (Fullstack, 2025.07 ~ 2025.08)  
+  이력서 업로드 → AI 점수/리뷰/리라이팅 + **커리어 로드맵** 제안 서비스  
+  `React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence`  
+  🔗 FE: https://github.com/yangjihun/DreamMap-fe  
+  🔗 BE: https://github.com/yangjihun/DreamMap-be  
+  🔗 Detail: https://yangjihun.netlify.app/projects/dreammap
+
+- **RE:MIT** (Fullstack, 2025.10 ~ 2025.12)  
+  금융수학과 스터디룸(622호) 예약 및 관리 시스템  
+  `PHP · Laravel · MySQL`  
+  🔗 Repo: https://github.com/Re-mit/Remit  
+  🔗 Detail: https://yangjihun.netlify.app/projects/re-mit
+
+- **COMMIT** (Fullstack, 2025.08 ~ 진행중)  
+  IT 동아리 COMMIT 공식 홈페이지(소개/스터디/프로젝트 포트폴리오 관리)  
+  `React 19 · TypeScript · Vite · Tailwind · Node.js`  
+  🔗 Demo: https://fm-commit.com  
+  🔗 Repo: https://github.com/yangjihun/FM-COMMIT  
+  🔗 Detail: https://yangjihun.netlify.app/projects/commit-club
+
+### More
+- **Vitamin-7** (Frontend, 2025.10 ~ 2025.12) — B2B 챗봇 운영 관리자 페이지  
+  `Next.js · React · TypeScript · Zustand · TanStack Query · Tailwind · Radix UI · Sentry`  
+  🔗 Detail: https://yangjihun.netlify.app/projects/vitamin-7-admin
+
+- **XRPL EYES** (Frontend, 2025.06 ~ 2025.07) — XRPL 기반 서비스 UAW 대시보드  
+  `React · TypeScript · Vite · Recharts · Tailwind · MSW`  
+  🔗 Repo: https://github.com/yangjihun/xrpl-eyes  
+  🔗 Detail: https://yangjihun.netlify.app/projects/xrpl-eyes
+
+- **SuME** (Frontend, 2025.01 ~ 2025.02) — 회의 음성 요약 & 캘린더 연동  
+  `React · Tailwind · React Router · FullCalendar`  
+  🔗 Repo: https://github.com/yangjihun/SuME  
+  🔗 Detail: https://yangjihun.netlify.app/projects/sume
+
+- **JOB.PT** (LLM Engineer & Team Leader, 2024.11 ~ 2024.12) — 트렌드 기반 직업/역량 추천 Streamlit 앱  
+  `Python · Streamlit · OpenAI API (gpt-4o-mini)`  
+  🔗 Repo: https://github.com/yangjihun/JOB.PT  
+  🔗 Detail: https://yangjihun.netlify.app/projects/jobpt
 
 ---
 
-## 📫 Connect with Me
-<a href="mailto:yjhn0410@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+## ✍️ Blog
+<a href="https://velog.io/@yangjihun">
+  <img src="https://velog-readme-stats.vercel.app/api?name=yangjihun" />
 </a>
+
+---
+
+## 📌 Contact
+- Portfolio: https://yangjihun.netlify.app
+- GitHub: https://github.com/yangjihun
+- LinkedIn: https://linkedin.com/in/yangjihun
+- Email: yjhn0410@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
