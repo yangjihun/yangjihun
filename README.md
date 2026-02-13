@@ -108,6 +108,12 @@
 ## 🚀 Projects
 
 ### Featured
+- **RE:MIT** (Fullstack, 2025.10 ~ 운영중)  
+  금융수학과 스터디룸(622호) 예약 및 관리 시스템  
+  `PHP · Laravel · MySQL`  
+  🔗 Repo: https://github.com/Re-mit/Remit  
+  🔗 Detail: https://yangjihun.netlify.app/projects/re-mit
+  
 - **Loventure** (Frontend, 2025.09 ~ 2025.10)  
   AI가 커플의 취향/컨디션을 분석해 **서울 맞춤 데이트 코스**를 추천하는 웹 서비스  
   `React 19 · TypeScript · Vite · TanStack Query · Zustand · Mapbox GL JS · Tailwind · MSW`  
@@ -115,20 +121,7 @@
   🔗 Repo: https://github.com/PitterPetter/PitterPetter_FE  
   🔗 Detail: https://yangjihun.netlify.app/projects/loventure
 
-- **DreamMap** (Fullstack, 2025.07 ~ 2025.08)  
-  이력서 업로드 → AI 점수/리뷰/리라이팅 + **커리어 로드맵** 제안 서비스  
-  `React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence`  
-  🔗 FE: https://github.com/yangjihun/DreamMap-fe  
-  🔗 BE: https://github.com/yangjihun/DreamMap-be  
-  🔗 Detail: https://yangjihun.netlify.app/projects/dreammap
-
-- **RE:MIT** (Fullstack, 2025.10 ~ 2025.12)  
-  금융수학과 스터디룸(622호) 예약 및 관리 시스템  
-  `PHP · Laravel · MySQL`  
-  🔗 Repo: https://github.com/Re-mit/Remit  
-  🔗 Detail: https://yangjihun.netlify.app/projects/re-mit
-
-- **COMMIT** (Fullstack, 2025.08 ~ 진행중)  
+- **COMMIT** (Fullstack, 2025.08 ~ 운영중)  
   IT 동아리 COMMIT 공식 홈페이지(소개/스터디/프로젝트 포트폴리오 관리)  
   `React 19 · TypeScript · Vite · Tailwind · Node.js`  
   🔗 Demo: https://fm-commit.com  
@@ -139,9 +132,16 @@
 - **Vitamin-7** (Frontend, 2025.10 ~ 2025.12) — B2B 챗봇 운영 관리자 페이지  
   `Next.js · React · TypeScript · Zustand · TanStack Query · Tailwind · Radix UI · Sentry`  
   🔗 Detail: https://yangjihun.netlify.app/projects/vitamin-7-admin
+  
+- **DreamMap** (Fullstack, 2025.07 ~ 2025.08)  
+  이력서 업로드 → AI 점수/리뷰/리라이팅 + **커리어 로드맵** 제안 서비스  
+  `React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence`  
+  🔗 FE: https://github.com/yangjihun/DreamMap-fe  
+  🔗 BE: https://github.com/yangjihun/DreamMap-be  
+  🔗 Detail: https://yangjihun.netlify.app/projects/dreammap
 
 - **XRPL EYES** (Frontend, 2025.06 ~ 2025.07) — XRPL 기반 서비스 UAW 대시보드  
-  `React · TypeScript · Vite · Recharts · Tailwind · MSW`  
+  `React · TypeScript · Vite · Recharts · Tailwind · MSW`
   🔗 Repo: https://github.com/yangjihun/xrpl-eyes  
   🔗 Detail: https://yangjihun.netlify.app/projects/xrpl-eyes
 
