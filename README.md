@@ -11,7 +11,7 @@
 <a href="https://velog.io/@yangjihun">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yangjihun">
+<a href="https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%96%91-9b49733a1">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yjhn0410@gmail.com">
