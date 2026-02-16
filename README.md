@@ -18,9 +18,6 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=yangjihun&color=brightgreen" alt="Profile Views" />
-
 </div>
 
 ---
@@ -120,8 +117,6 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 ### Featured
 | Project | Role / Period | Description | Tech | Links |
 |---|---|---|---|---|
@@ -141,9 +136,24 @@
 ---
 
 ## 📌 Contact
-- Portfolio: https://yangjihun.netlify.app
-- GitHub: https://github.com/yangjihun
-- LinkedIn: https://linkedin.com/in/yangjihun
-- Email: yjhn0410@gmail.com
+<div align="center">
+
+<a href="https://yangjihun.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="https://velog.io/@yangjihun">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%96%91-9b49733a1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yjhn0410@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yangjihun&color=brightgreen" alt="Profile Views" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
