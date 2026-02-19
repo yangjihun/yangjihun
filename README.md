@@ -26,6 +26,7 @@
 
 #### 2026
 - 🦁 **AI SSAFY 15기** (2026.01 ~ 진행중)
+- 🏁 **조코딩 × OpenAI × Primer AI 해커톤** (2026.02)
 
 #### 2025
 - 🧑‍🤝‍🧑 **가천대학교 금융수학과 IT 동아리 COMMIT 창립 · 동아리장** (2025.09 ~ 2026.02)
@@ -38,7 +39,7 @@
 ## 👋 About
 - 프론트엔드부터 백엔드까지 흐름을 연결해 **사용자에게 전달되는 가치를 끝까지 만들어내는 것**을 좋아합니다.
 - 제품 관점에서 문제를 정의하고, **구현 → 개선**까지 이어지도록 구조를 잡는 데 관심이 많습니다.
-- 백엔드와 **AI 활용**까지 꾸준히 확장 중입니다.
+- 백엔드와 **AI 활용**까지 꾸준히 확장 중입니다. (FastAPI · LangSmith 트레이싱 · Render 배포 경험)
 
 ---
 
@@ -83,6 +84,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
@@ -101,6 +103,12 @@
   <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
   <img src="https://img.shields.io/badge/Prettier-000000?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
   <img src="https://img.shields.io/badge/MSW-000000?style=for-the-badge&logo=mockserviceworker&logoColor=FF6A33" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
+</p>
+
+### LLMOps
+<p>
+  <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ### AI Agents
