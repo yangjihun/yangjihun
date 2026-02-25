@@ -104,6 +104,10 @@
   <img src="https://img.shields.io/badge/Prettier-000000?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
   <img src="https://img.shields.io/badge/MSW-000000?style=for-the-badge&logo=mockserviceworker&logoColor=FF6A33" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### LLMOps
@@ -135,6 +139,7 @@
 ### More
 | Project | Role / Period | Description | Tech | Links |
 |---|---|---|---|---|
+| **Netplus** | Backend · 2026.02 ~ 2026.02 | OTT 시청을 보조하는 타임라인 기반 챗봇 서비스 |Python · FastAPI · SQLAlchemy · OpenAI API · LangSmith · Render | [Detail](https://yangjihun.netlify.app/projects/netplus) |
 | **Vitamin-7** | Frontend · 2025.10 ~ 2025.12 | B2B 챗봇 운영 관리자 페이지 | Next.js · React · TypeScript · Zustand · TanStack Query · Tailwind · Radix UI · Sentry | [Detail](https://yangjihun.netlify.app/projects/vitamin-7-admin) |
 | **DreamMap** | Fullstack · 2025.07 ~ 2025.08 | 이력서 업로드 → AI 점수/리뷰/리라이팅 + 커리어 로드맵 제안 서비스 | React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence | [FE](https://github.com/yangjihun/DreamMap-fe)<br/>[BE](https://github.com/yangjihun/DreamMap-be)<br/>[Detail](https://yangjihun.netlify.app/projects/dreammap) |
 | **XRPL EYES** | Frontend · 2025.06 ~ 2025.07 | XRPL 기반 서비스 UAW 대시보드 | React · TypeScript · Vite · Recharts · Tailwind · MSW | [Repo](https://github.com/yangjihun/xrpl-eyes)<br/>[Detail](https://yangjihun.netlify.app/projects/xrpl-eyes) |
