@@ -29,7 +29,7 @@
 - 🏁 **조코딩 × OpenAI × Primer AI 해커톤** (2026.02)
 
 #### 2025
-- 🧑‍🤝‍🧑 **가천대학교 금융수학과 IT 동아리 COMMIT 창립 · 동아리장** (2025.09 ~ 2026.02)
+- 🧑‍🤝‍🧑 **가천대학교 금융수학과 IT 동아리 COMMIT 개설 · 동아리장** (2025.09 ~ 2026.02)
 - 💡 **가천대 카카오 엔터프라이즈 SW 아카데미 7기** (2025.09 ~ 2025.12)
 - 🏁 **ZetaChain Korea 개발 해커톤** (2025.08)
 - 🌐 **XRPL Korea 앰배서더 개발팀** (2025.05 ~ 2025.07)
@@ -37,9 +37,9 @@
 - 🛠️ **(주) 일릭서 빅데이터 분석 자동화 서비스 개발 해커톤** (2025.01 ~ 2025.02)
 
 ## 👋 About
-- 프론트엔드부터 백엔드까지 흐름을 연결해 **사용자에게 전달되는 가치를 끝까지 만들어내는 것**을 좋아합니다.
+- 프론트엔드부터 백엔드까지 흐름을 연결해 **사용자에게 전달되는 가치를 만들어내는 것**을 좋아합니다.
 - 제품 관점에서 문제를 정의하고, **구현 → 개선**까지 이어지도록 구조를 잡는 데 관심이 많습니다.
-- 백엔드와 **AI 활용**까지 꾸준히 확장 중입니다. (FastAPI · LangSmith 트레이싱 · Render 배포 경험)
+- 백엔드와 **AI 활용**까지 꾸준히 확장 중입니다.
 
 ---
 
@@ -122,8 +122,7 @@
 
 ## 📚 Currently Learning
 - Spring
-- Docker
-- ☁️ AWS (EC2, S3, RDS)
+- RAG
 
 ---
 
@@ -132,7 +131,7 @@
 ### Featured
 | Project | Role / Period | Description | Tech | Links |
 |---|---|---|---|---|
-| **RE:MIT** | Fullstack · 2025.10 ~ 운영중 | 금융수학과 스터디룸(622호) 예약 및 관리 시스템 | PHP · Laravel · MySQL | [Repo](https://github.com/Re-mit/Remit)<br/>[Detail](https://yangjihun.netlify.app/projects/studyroom-reservation) |
+| **RE:MIT** | Fullstack · 2025.10 ~ 운영중 | 금융수학과 스터디룸 예약 및 관리 시스템 | PHP · Laravel · MySQL | [Repo](https://github.com/Re-mit/Remit)<br/>[Detail](https://yangjihun.netlify.app/projects/studyroom-reservation) |
 | **Loventure** | Frontend · 2025.09 ~ 2025.10 | AI가 커플의 취향/컨디션을 분석해 서울 맞춤 데이트 코스를 추천하는 웹 서비스 | React 19 · TypeScript · Vite · TanStack Query · Zustand · Mapbox GL JS · Tailwind · MSW | [Demo](https://loventure.us)<br/>[Repo](https://github.com/PitterPetter/PitterPetter_FE)<br/>[Detail](https://yangjihun.netlify.app/projects/loventure) |
 | **COMMIT** | Fullstack · 2025.08 ~ 운영중 | IT 동아리 COMMIT 공식 홈페이지(소개/스터디/프로젝트 포트폴리오 관리) | React 19 · TypeScript · Vite · Tailwind · Node.js | [Demo](https://fm-commit.com)<br/>[Repo](https://github.com/yangjihun/FM-COMMIT)<br/>[Detail](https://yangjihun.netlify.app/projects/commit-club) |
 
