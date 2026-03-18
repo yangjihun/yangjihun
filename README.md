@@ -52,7 +52,7 @@
 
 ---
 
-## 🧠 Algorithm · ✍️ Blog
+## ✍️ Study Log
 
 <div align="center">
   <a href="https://solved.ac/profile/yjhn0410">
@@ -63,6 +63,11 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/yangjihun/study-log">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yangjihun&repo=study-log&theme=tokyonight&hide_border=true&show_owner=false&locale=kr" />
+  </a>
+</div>
 ---
 
 ## 🛠️ Tech Stack
