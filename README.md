@@ -36,11 +36,6 @@
 - ⛓️ **가천대학교 블록체인 학회 Gairos 학회원** (2025.03 ~ 2025.08)
 - 🛠️ **(주) 일릭서 빅데이터 분석 자동화 서비스 개발 해커톤** (2025.01 ~ 2025.02)
 
-## 👋 About
-- 프론트엔드부터 백엔드까지 흐름을 연결해 **사용자에게 전달되는 가치를 만들어내는 것**을 좋아합니다.
-- 제품 관점에서 문제를 정의하고, **구현 → 개선**까지 이어지도록 구조를 잡는 데 관심이 많습니다.
-- 백엔드와 **AI 활용**까지 꾸준히 확장 중입니다.
-
 ---
 
 ## 📊 GitHub Stats
@@ -125,11 +120,6 @@
 
 ---
 
-## 📚 Currently Learning
-- Spring
-- RAG
-
----
 
 ## 🚀 Projects
 
@@ -149,6 +139,14 @@
 | **XRPL EYES** | Frontend · 2025.06 ~ 2025.07 | XRPL 기반 서비스 UAW 대시보드 | React · TypeScript · Vite · Recharts · Tailwind · MSW | [Repo](https://github.com/yangjihun/xrpl-eyes)<br/>[Detail](https://yangjihun.netlify.app/projects/xrpl-eyes) |
 | **SuME** | Frontend · 2025.01 ~ 2025.02 | 회의 음성 요약 & 캘린더 연동 | React · Tailwind · React Router · FullCalendar | [Repo](https://github.com/yangjihun/SuME)<br/>[Detail](https://yangjihun.netlify.app/projects/sume) |
 | **JOB.PT** | LLM Engineer & Team Leader · 2024.11 ~ 2024.12 | 트렌드 기반 직업/역량 추천 Streamlit 앱 | Python · Streamlit · OpenAI API (gpt-4o-mini) | [Repo](https://github.com/yangjihun/JOB.PT)<br/>[Detail](https://yangjihun.netlify.app/projects/jobpt) |
+
+---
+
+
+## 🥈Certificate
+- TOEIC-Speaking IM3 (2025.12.14)
+- SW 역량 A형 (2026.02.19)
+- 정보처리기사 필기 (2025.08.13)
 
 ---
 
