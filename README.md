@@ -144,8 +144,9 @@
 
 
 ## 🥈Certificate
-- TOEIC-Speaking IM3 (2025.12.14)
+- SQLD (2026.06.19)
 - SW 역량 A형 (2026.02.19)
+- TOEIC-Speaking IM3 (2025.12.14)
 - 정보처리기사 필기 (2025.08.13)
 
 ---
