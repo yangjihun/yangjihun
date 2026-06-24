@@ -225,3 +225,22 @@
 - 정보처리기사 필기 (2025.08.13)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
+
+---
+
+## Currently Exploring
+
+<div align="center">
+
+> JavaScript 런타임 기반 백엔드 생태계와 구조적인 서버 아키텍처를 깊게 학습하고 있습니다.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FF4438" /
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+
+</div>
+
