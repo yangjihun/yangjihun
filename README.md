@@ -5,8 +5,8 @@
 ### Fullstack Developer  
 추진력과 커뮤니케이션으로 서비스를 안정적으로 완성합니다.
 
-<a href="https://yangjihun.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<a href="https://yangjihun.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://velog.io/@yangjihun">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
@@ -161,7 +161,7 @@
 
 * **Role**: Fullstack
 * **Period**: 2025.10 ~ 운영중
-* **Links**: [Repo](https://github.com/Re-mit/Remit) · [Detail](https://yangjihun.netlify.app/projects/studyroom-reservation)
+* **Links**: [Repo](https://github.com/Re-mit/Remit) · [Detail](https://yangjihun.com/projects/studyroom-reservation)
 
 ---
 
@@ -182,7 +182,7 @@
 
 * **Role**: Frontend
 * **Period**: 2025.09 ~ 2025.10
-* **Links**: [Demo](https://loventure.us) · [Repo](https://github.com/PitterPetter/PitterPetter_FE) · [Detail](https://yangjihun.netlify.app/projects/loventure)
+* **Links**: [Demo](https://loventure.us) · [Repo](https://github.com/PitterPetter/PitterPetter_FE) · [Detail](https://yangjihun.com/projects/loventure)
 
 ---
 
@@ -202,17 +202,17 @@
 
 * **Role**: Frontend
 * **Period**: 2025.10 ~ 2025.12
-* **Links**: [Detail](https://yangjihun.netlify.app/projects/vitamin-7-admin)
+* **Links**: [Detail](https://yangjihun.com/projects/vitamin-7-admin)
 
 
 ### More
 | Project | Role / Period | Description | Tech | Links |
 |---|---|---|---|---|
-| **Netplus** | Backend · 2026.02 ~ 2026.02 | OTT 시청을 보조하는 타임라인 기반 챗봇 서비스 |Python · FastAPI · SQLAlchemy · OpenAI API · LangSmith · Render | [Detail](https://yangjihun.netlify.app/projects/netplus) |
-| **DreamMap** | Fullstack · 2025.07 ~ 2025.08 | 이력서 업로드 → AI 점수/리뷰/리라이팅 + 커리어 로드맵 제안 서비스 | React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence | [FE](https://github.com/yangjihun/DreamMap-fe)<br/>[BE](https://github.com/yangjihun/DreamMap-be)<br/>[Detail](https://yangjihun.netlify.app/projects/dreammap) |
-| **XRPL EYES** | Frontend · 2025.06 ~ 2025.07 | XRPL 기반 서비스 UAW 대시보드 | React · TypeScript · Vite · Recharts · Tailwind · MSW | [Repo](https://github.com/yangjihun/xrpl-eyes)<br/>[Detail](https://yangjihun.netlify.app/projects/xrpl-eyes) |
-| **SuME** | Frontend · 2025.01 ~ 2025.02 | 회의 음성 요약 & 캘린더 연동 | React · Tailwind · React Router · FullCalendar | [Repo](https://github.com/yangjihun/SuME)<br/>[Detail](https://yangjihun.netlify.app/projects/sume) |
-| **JOB.PT** | LLM Engineer & Team Leader · 2024.11 ~ 2024.12 | 트렌드 기반 직업/역량 추천 Streamlit 앱 | Python · Streamlit · OpenAI API (gpt-4o-mini) | [Repo](https://github.com/yangjihun/JOB.PT)<br/>[Detail](https://yangjihun.netlify.app/projects/jobpt) |
+| **Netplus** | Backend · 2026.02 ~ 2026.02 | OTT 시청을 보조하는 타임라인 기반 챗봇 서비스 |Python · FastAPI · SQLAlchemy · OpenAI API · LangSmith · Render | [Detail](https://yangjihun.com/projects/netplus) |
+| **DreamMap** | Fullstack · 2025.07 ~ 2025.08 | 이력서 업로드 → AI 점수/리뷰/리라이팅 + 커리어 로드맵 제안 서비스 | React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence | [FE](https://github.com/yangjihun/DreamMap-fe)<br/>[BE](https://github.com/yangjihun/DreamMap-be)<br/>[Detail](https://yangjihun.com/projects/dreammap) |
+| **XRPL EYES** | Frontend · 2025.06 ~ 2025.07 | XRPL 기반 서비스 UAW 대시보드 | React · TypeScript · Vite · Recharts · Tailwind · MSW | [Repo](https://github.com/yangjihun/xrpl-eyes)<br/>[Detail](https://yangjihun.com/projects/xrpl-eyes) |
+| **SuME** | Frontend · 2025.01 ~ 2025.02 | 회의 음성 요약 & 캘린더 연동 | React · Tailwind · React Router · FullCalendar | [Repo](https://github.com/yangjihun/SuME)<br/>[Detail](https://yangjihun.com/projects/sume) |
+| **JOB.PT** | LLM Engineer & Team Leader · 2024.11 ~ 2024.12 | 트렌드 기반 직업/역량 추천 Streamlit 앱 | Python · Streamlit · OpenAI API (gpt-4o-mini) | [Repo](https://github.com/yangjihun/JOB.PT)<br/>[Detail](https://yangjihun.com/projects/jobpt) |
 
 ---
 
