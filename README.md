@@ -3,7 +3,7 @@
 <div align="center">
 
 ### Fullstack Developer  
-추진력과 커뮤니케이션으로 서비스를 안정적으로 완성합니다.
+필요를 스스로 정의하고 해결책을 설계해 실행하는, NodeJS 기반 풀스택 개발자입니다.
 
 <a href="https://yangjihun.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
