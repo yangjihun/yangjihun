@@ -201,7 +201,7 @@
 
 ## Certifications
 
-![SQLD](https://img.shields.io/badge/SQLD-2026.03-F59E0B?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLD](https://img.shields.io/badge/SQLD-2026.06-F59E0B?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Samsung SW A형](https://img.shields.io/badge/Samsung%20SW%20역량테스트%20A형-2026.02-EA580C?style=for-the-badge&logo=samsung&logoColor=white)
 
