@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ## Experience & Activities
 
 #### 2026
@@ -40,36 +38,6 @@
 
 #### 2024
 - **가천대학교 P실무 프로젝트** (2024.11 ~ 2024.12)
-
----
-
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangjihun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yangjihun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## Study Log
-
-<div align="center">
-  <a href="https://solved.ac/profile/yjhn0410">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yjhn0410" height="140" />
-  </a>
-  <a href="https://velog.io/@yangjihun">
-    <img src="https://velog-readme-stats.vercel.app/api?name=yangjihun" height="200" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/yangjihun/study-log">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yangjihun&repo=study-log&theme=tokyonight&hide_border=true&show_owner=false&locale=kr" />
-  </a>
-</div>
-
----
 
 ## Tech Stack
 
@@ -110,14 +78,6 @@
   <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 </p>
 
-### AI
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
-
 ### DevOps & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
@@ -142,98 +102,110 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
----
-
-
 ## Projects
 
 ### Featured
 
+#### StudyPot
+
+> AI 스터디 그룹 학습 서비스
+
+* **Tech**: Vue.js, Pinia, TailwindCSS, Axios, MSW, Playwright
+* **Role**: Frontend
+* **Period**: 2026.05 ~ 2026.06
+* **Links**: [Repo](https://github.com/StudyPot)
 #### RE:MIT
 
 > 금융수학과 스터디룸 예약 및 관리 시스템
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge" />
-</p>
-
+* **Tech**: PHP, Laravel, MySQL
 * **Role**: Fullstack
 * **Period**: 2025.10 ~ 운영중
 * **Links**: [Repo](https://github.com/Re-mit/Remit) · [Detail](https://yangjihun.com/projects/studyroom-reservation)
-
----
 
 #### Loventure
 
 > AI가 커플의 취향과 컨디션을 분석해 서울 맞춤 데이트 코스를 추천하는 웹 서비스
 
-<p>
-  <img src="https://img.shields.io/badge/React%2019-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mapbox%20GL%20JS-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MSW-000000?style=for-the-badge" />
-</p>
-
+* **Tech**: React, TypeScript, Vite, Zustand, TanStack Query, TailwindCSS, MSW, MapboxJS
 * **Role**: Frontend
 * **Period**: 2025.09 ~ 2025.10
 * **Links**: [Demo](https://loventure.us) · [Repo](https://github.com/PitterPetter/PitterPetter_FE) · [Detail](https://yangjihun.com/projects/loventure)
 
----
-
 #### Vitamin-7
 
-> B2B 챗봇 운영 관리자 페이지
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sentry-000000?style=for-the-badge" />
-</p>
+> B2B AI 챗봇 운영 관리자 페이지
 
+* **Tech**: Next.js, React, TypeScript, Zustand, TanStack Query, TailwindCSS, Radix UI, Sentry
 * **Role**: Frontend
 * **Period**: 2025.10 ~ 2025.12
 * **Links**: [Detail](https://yangjihun.com/projects/vitamin-7-admin)
 
 
 ### More
-| Project | Role / Period | Description | Tech | Links |
-|---|---|---|---|---|
-| **Netplus** | Backend · 2026.02 ~ 2026.02 | OTT 시청을 보조하는 타임라인 기반 챗봇 서비스 |Python · FastAPI · SQLAlchemy · OpenAI API · LangSmith · Render | [Detail](https://yangjihun.com/projects/netplus) |
-| **DreamMap** | Fullstack · 2025.07 ~ 2025.08 | 이력서 업로드 → AI 점수/리뷰/리라이팅 + 커리어 로드맵 제안 서비스 | React · TypeScript · Node.js · Express · MongoDB · Gemini · Azure Document Intelligence | [FE](https://github.com/yangjihun/DreamMap-fe)<br/>[BE](https://github.com/yangjihun/DreamMap-be)<br/>[Detail](https://yangjihun.com/projects/dreammap) |
-| **XRPL EYES** | Frontend · 2025.06 ~ 2025.07 | XRPL 기반 서비스 UAW 대시보드 | React · TypeScript · Vite · Recharts · Tailwind · MSW | [Repo](https://github.com/yangjihun/xrpl-eyes)<br/>[Detail](https://yangjihun.com/projects/xrpl-eyes) |
-| **SuME** | Frontend · 2025.01 ~ 2025.02 | 회의 음성 요약 & 캘린더 연동 | React · Tailwind · React Router · FullCalendar | [Repo](https://github.com/yangjihun/SuME)<br/>[Detail](https://yangjihun.com/projects/sume) |
-| **JOB.PT** | LLM Engineer & Team Leader · 2024.11 ~ 2024.12 | 트렌드 기반 직업/역량 추천 Streamlit 앱 | Python · Streamlit · OpenAI API (gpt-4o-mini) | [Repo](https://github.com/yangjihun/JOB.PT)<br/>[Detail](https://yangjihun.com/projects/jobpt) |
 
----
+<details>
+<summary><strong>Netplus</strong> | OTT 시청 보조 타임라인 기반 AI 챗봇 서비스</summary>
 
+- **Tech**: Python, FastAPI, SQLAlchemy, OpenAI API, LangSmith, Render
+- **Role**: Backend
+- **Period**: 2026.02 ~ 2026.02
+- **Links**: [Repo](https://github.com/yangjihun/PrimerAI-Hackath)
+
+</details>
+
+<details>
+<summary><strong>DreamMap</strong> | AI 점수/리뷰/리라이팅 및 커리어 로드맵 제안 서비스</summary>
+
+- **Tech**: React, TypeScript, Node.js, Express, MongoDB, Gemini, Azure Document Intelligence
+- **Role**: Fullstack
+- **Period**: 2025.07 ~ 2025.08
+- **Links**: [FE Repo](https://github.com/yangjihun/DreamMap-fe), [BE Repo](https://github.com/yangjihun/DreamMap-be)
+
+</details>
+
+<details>
+<summary><strong>XRPL EYES</strong> | XRPL 기반 서비스 UAW 대시보드</summary>
+
+- **Tech**: React, TypeScript, Vite, Recharts, Tailwind, MSW
+- **Role**: Frontend
+- **Period**: 2025.06 ~ 2025.07
+- **Links**: [Repo](https://github.com/yangjihun/xrpl-eyes)
+
+</details>
+
+<details>
+<summary><strong>SuME</strong> | AI 회의 음성 요약 & 캘린더 연동</summary>
+
+- **Tech**: React, Tailwind, React Router, FullCalendar
+- **Role**: Frontend
+- **Period**: 2025.01 ~ 2025.02
+- **Links**: [Repo](https://github.com/yangjihun/SuME)
+
+</details>
+
+<details>
+<summary><strong>JOB.PT</strong> | AI 트렌드 기반 직업/역량 추천 Streamlit 앱</summary>
+
+- **Tech**: Python, Streamlit, OpenAI API (gpt-4o-mini)
+- **Role**: LLM Engineer & Team Leader
+- **Period**: 2024.11 ~ 2024.12
+- **Links**: [Repo](https://github.com/yangjihun/JOB.PT)
+
+</details>
 
 ## Awards
 
-* **삼성 청년 SW AI 아카데미 1학기 프로젝트 최우수상** (2026.06)
+* **삼성 청년 SW·AI 아카데미 1학기 관통 프로젝트 최우수상** (2026.06)
 * **시나공 SQLD 우수 베타테스터** (2026.06)
-
----
 
 ## Certifications
 
-* **SQLD** (2026.06.19)
-* **Samsung SW 역량 테스트 A형** (2026.02.19)
-* **TOEIC Speaking IM3** (2025.12.14)
-* **정보처리기사 필기** (2025.08.13)
+![SQLD](https://img.shields.io/badge/SQLD-2026.03-F59E0B?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Samsung SW A형](https://img.shields.io/badge/Samsung%20SW%20역량테스트%20A형-2026.02-EA580C?style=for-the-badge&logo=samsung&logoColor=white)
 
-
----
+![TOEIC Speaking](https://img.shields.io/badge/TOEIC%20Speaking-IM3-10B981?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ## Currently Exploring
 
