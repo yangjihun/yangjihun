@@ -217,14 +217,21 @@
 ---
 
 
-## Certifications & Awards
-- **SQLD** (2026.06.19)
-	- 시나공 SQLD 우수 베타테스터 선정
-- **Samsung SW 역량 테스트 A형** (2026.02.19)
-- **TOEIC Speaking IM3** (2025.12.14)
-- 정보처리기사 필기 (2025.08.13)
+## Awards
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
+* **삼성 청년 SW AI 아카데미 1학기 프로젝트 최우수상** (2026.06)
+* **시나공 SQLD 우수 베타테스터** (2026.06)
+
+---
+
+## Certifications
+
+* **SQLD** (2026.06.19)
+* **Samsung SW 역량 테스트 A형** (2026.02.19)
+* **TOEIC Speaking IM3** (2025.12.14)
+* **정보처리기사 필기** (2025.08.13)
+
+
 
 ---
 
@@ -244,3 +251,5 @@
 
 </div>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
