@@ -26,18 +26,26 @@
 - **SSAFY x 카카오테크 부트캠프 해커톤** (2026.05 ~ 2026.06)
 - **SSAFY x 우리은행 아이디어톤** (2026.05 ~ 2026.06)
 - **조코딩 × OpenAI × Primer AI 해커톤** (2026.02)
-- **삼성 청년 SW AI 아카데미 15기** (2026.01 ~ 진행중)
+- **삼성 청년 SW·AI 아카데미 15기** (2026.01 ~ 진행중)
 
 #### 2025
 - **가천대학교 금융수학과 IT 동아리 COMMIT 개설 · 동아리장** (2025.09 ~ 2026.02)
 - **가천대 카카오 엔터프라이즈 SW 아카데미 7기** (2025.09 ~ 2025.12)
 - **ZetaChain Korea 개발 해커톤** (2025.08)
-- **XRPL Korea 앰배서더 개발팀** (2025.05 ~ 2025.07)
+- **XRPL Korea 앰배서더 개발팀 횔동** (2025.05 ~ 2025.07)
 - **가천대학교 블록체인 학회 Gairos 학회원** (2025.03 ~ 2025.08)
 - **(주) 일릭서 빅데이터 분석 자동화 서비스 개발 해커톤** (2025.01 ~ 2025.02)
 
 #### 2024
 - **가천대학교 P실무 프로젝트** (2024.11 ~ 2024.12)
+- **2024 관광데이터 활용 공모전** (2024.04 ~ 2024.11)
+
+#### 2023
+- **군장병 AI·SW 역량강화 SW개발(JS) 중급과정 수료** (2023.03 ~ 2023.06)
+
+#### 2020
+- **가천대학교 금융수학과 학생회 활동** (2020.03 ~ 2021.12)
+- **가천대학교 금융수학과 전공 · 소프트웨어학과 복수전공** (2020.03 ~ 2026.02)
 
 ## Tech Stack
 
@@ -107,6 +115,15 @@
 
 ### Featured
 
+#### ZANI
+
+> 학생 집중도를 실시간으로 분석하고 맞춤 리포트를 제공하는 AI 강의 플랫폼
+
+* **Tech**: Next.js, Spring, LiveKit, MySQL, Redis
+* **Role**: Fullstack
+* **Period**: 2026.07 ~ 2026.08
+* **Links**: 대외비 정책에 따라 저장소와 상세 코드는 공개하지 않습니다.
+
 #### StudyPot
 
 > AI 스터디 그룹 학습 서비스
@@ -115,6 +132,7 @@
 * **Role**: Frontend
 * **Period**: 2026.05 ~ 2026.06
 * **Links**: [Repo](https://github.com/StudyPot)
+
 #### RE:MIT
 
 > 금융수학과 스터디룸 예약 및 관리 시스템
@@ -123,6 +141,15 @@
 * **Role**: Fullstack
 * **Period**: 2025.10 ~ 운영중
 * **Links**: [Repo](https://github.com/Re-mit/Remit) · [Detail](https://yangjihun.com/projects/studyroom-reservation)
+
+#### Vitamin-7
+
+> B2B AI 챗봇 운영 관리자 페이지
+
+* **Tech**: Next.js, React, TypeScript, Zustand, TanStack Query, TailwindCSS, Radix UI, Sentry
+* **Role**: Frontend
+* **Period**: 2025.10 ~ 2025.12
+* **Links**: 대외비 정책에 따라 저장소와 상세 코드는 공개하지 않습니다.
 
 #### Loventure
 
@@ -133,14 +160,6 @@
 * **Period**: 2025.09 ~ 2025.10
 * **Links**: [Demo](https://loventure.us) · [Repo](https://github.com/PitterPetter/PitterPetter_FE) · [Detail](https://yangjihun.com/projects/loventure)
 
-#### Vitamin-7
-
-> B2B AI 챗봇 운영 관리자 페이지
-
-* **Tech**: Next.js, React, TypeScript, Zustand, TanStack Query, TailwindCSS, Radix UI, Sentry
-* **Role**: Frontend
-* **Period**: 2025.10 ~ 2025.12
-* **Links**: [Detail](https://yangjihun.com/projects/vitamin-7-admin)
 
 
 ### More
