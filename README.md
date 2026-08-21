@@ -119,7 +119,7 @@
 
 > 금융수학과 스터디룸 예약 및 관리 시스템
 
-* **Tech**: PHP, Laravel, MySQL
+* **Tech**: PHP, Laravel, MySQL, MS Clarity
 * **Role**: Fullstack
 * **Period**: 2025.10 ~ 운영중
 * **Links**: [Repo](https://github.com/Re-mit/Remit) · [Detail](https://yangjihun.com/projects/studyroom-reservation)
