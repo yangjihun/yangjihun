@@ -2,8 +2,9 @@
 
 <div align="center">
 
-### Fullstack Developer  
-필요를 스스로 정의하고 해결책을 설계해 실행하는, NodeJS 기반 풀스택 개발자입니다.
+### Fullstack Developer
+
+추진력과 커뮤니케이션으로 서비스를 안정적으로 완성하는 풀스택 개발자입니다.
 
 <a href="https://yangjihun.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -23,33 +24,40 @@
 ## Experience & Activities
 
 #### 2026
+
+- **TeaCat NFT/SBT 티켓팅 서비스 개발** (2026.08 ~ 진행 중)
 - **SSAFY x 카카오테크 부트캠프 해커톤** (2026.05 ~ 2026.06)
 - **SSAFY x 우리은행 아이디어톤** (2026.05 ~ 2026.06)
-- **조코딩 × OpenAI × Primer AI 해커톤** (2026.02)
-- **삼성 청년 SW·AI 아카데미 15기** (2026.01 ~ 진행중)
+- **조코딩 × OpenAI × Primer AI 해커톤** (2026.02)
+- **삼성 청년 SW·AI 아카데미 15기** (2026.01 ~ 진행 중)
 
 #### 2025
-- **가천대학교 금융수학과 IT 동아리 COMMIT 개설 · 동아리장** (2025.09 ~ 2026.02)
+
+- **가천대학교 금융수학과 IT 동아리 COMMIT 개설 및 동아리장** (2025.08 ~ 2026.02)
 - **가천대 카카오 엔터프라이즈 SW 아카데미 7기** (2025.09 ~ 2025.12)
 - **ZetaChain Korea 개발 해커톤** (2025.08)
-- **XRPL Korea 앰배서더 개발팀 횔동** (2025.05 ~ 2025.07)
+- **XRPL Korea 앰배서더 개발팀 활동** (2025.05 ~ 2025.07)
 - **가천대학교 블록체인 학회 Gairos 학회원** (2025.03 ~ 2025.08)
-- **(주) 일릭서 빅데이터 분석 자동화 서비스 개발 해커톤** (2025.01 ~ 2025.02)
+- **(주) 일릭서 빅데이터 분석 자동화 서비스 개발 해커톤** (2025.01 ~ 2025.02)
 
 #### 2024
+
 - **가천대학교 P실무 프로젝트** (2024.11 ~ 2024.12)
 - **2024 관광데이터 활용 공모전** (2024.04 ~ 2024.11)
 
 #### 2023
+
 - **군장병 AI·SW 역량강화 SW개발(JS) 중급과정 수료** (2023.03 ~ 2023.06)
 
 #### 2020
-- **가천대학교 금융수학과 학생회 활동** (2020.03 ~ 2021.12)
-- **가천대학교 금융수학과 전공 · 소프트웨어학과 복수전공** (2020.03 ~ 2026.02)
+
+- **가천대학교 금융수학과 과대표 및 학생회 활동** (2020.03 ~ 2021.12)
+- **가천대학교 금융수학과 전공 및 소프트웨어학과 복수전공** (2020.03 ~ 2026.02)
 
 ## Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -68,6 +76,7 @@
 </p>
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -88,14 +97,16 @@
 </p>
 
 ### DevOps & Infrastructure
+
 <p>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
 </p>
 
 ### Database
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
@@ -103,6 +114,7 @@
 </p>
 
 ### Tools & Environment
+
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -115,52 +127,67 @@
 
 ### Featured
 
+#### TeaCat
+
+> 커스터디 방식을 적용해 별도 지갑 설치 없이 이용할 수 있는 NFT/SBT 기반 티켓팅 서비스
+
+- **Tech**: ERC-20, NFT/SBT, Custody
+- **Period**: 2026.08 ~ 진행 중
+- **Status**: 개발 진행 중
+
 #### ZANI
 
 > 학생 집중도를 실시간으로 분석하고 맞춤 리포트를 제공하는 AI 강의 플랫폼
 
-* **Tech**: Next.js, Spring, LiveKit, MySQL, Redis
-* **Role**: Fullstack
-* **Period**: 2026.07 ~ 2026.08
-* **Links**: 대외비 정책에 따라 저장소와 상세 코드는 공개하지 않습니다.
+- **Tech**: Next.js, Spring Boot, LiveKit, MySQL, Redis
+- **Role**: Fullstack
+- **Period**: 2026.07 ~ 2026.08
+- **Links**: [Detail](https://yangjihun.com/projects/zani)
 
 #### StudyPot
 
-> AI 스터디 그룹 학습 서비스
+> AI 팀장이 운영을 보조하는 스터디 그룹 관리 플랫폼
 
-* **Tech**: Vue.js, Pinia, TailwindCSS, Axios, MSW, Playwright
-* **Role**: Frontend
-* **Period**: 2026.05 ~ 2026.06
-* **Links**: [Repo](https://github.com/StudyPot)
+- **Tech**: Vue 3, TypeScript, Vite, Pinia, Tailwind CSS, FSD, Axios, MSW, Playwright, Netlify
+- **Role**: Frontend Lead (기획, FE 설계)
+- **Period**: 2026.05 ~ 2026.06
+- **Links**: [Demo](https://studypot.netlify.app/) · [Detail](https://yangjihun.com/projects/studypot)
 
 #### RE:MIT
 
 > 금융수학과 스터디룸 예약 및 관리 시스템
 
-* **Tech**: PHP, Laravel, MySQL, MS Clarity
-* **Role**: Fullstack
-* **Period**: 2025.10 ~ 운영중
-* **Links**: [Repo](https://github.com/Re-mit/Remit) · [Detail](https://yangjihun.com/projects/studyroom-reservation)
+- **Tech**: PHP, Laravel, MySQL, Microsoft Clarity
+- **Role**: PM, Fullstack
+- **Period**: 2025.10 ~ 운영 중
+- **Links**: [Repo](https://github.com/Re-mit/Remit) · [Detail](https://yangjihun.com/projects/studyroom-reservation)
 
-#### Vitamin-7
+#### Vibot
 
-> B2B AI 챗봇 운영 관리자 페이지
+> 사내 문서 기반 AI 챗봇 운영 관리자 페이지
 
-* **Tech**: Next.js, React, TypeScript, Zustand, TanStack Query, TailwindCSS, Radix UI, Sentry
-* **Role**: Frontend
-* **Period**: 2025.10 ~ 2025.12
-* **Links**: 대외비 정책에 따라 저장소와 상세 코드는 공개하지 않습니다.
+- **Tech**: Next.js, React, TypeScript, Zustand, TanStack Query, Axios, Tailwind CSS, Radix UI, Sentry, Vercel
+- **Role**: Frontend Lead
+- **Period**: 2025.10 ~ 2025.12
+- **Links**: [Detail](https://yangjihun.com/projects/kakao-enterprise-pbl)
 
 #### Loventure
 
 > AI가 커플의 취향과 컨디션을 분석해 서울 맞춤 데이트 코스를 추천하는 웹 서비스
 
-* **Tech**: React, TypeScript, Vite, Zustand, TanStack Query, TailwindCSS, MSW, MapboxJS
-* **Role**: Frontend
-* **Period**: 2025.09 ~ 2025.10
-* **Links**: [Demo](https://loventure.us) · [Repo](https://github.com/PitterPetter/PitterPetter_FE) · [Detail](https://yangjihun.com/projects/loventure)
+- **Tech**: React, TypeScript, Vite, Zustand, TanStack Query, Tailwind CSS, MSW, Mapbox GL JS
+- **Role**: Frontend
+- **Period**: 2025.09 ~ 2025.10
+- **Links**: [Demo](https://loventure.us) · [Repo](https://github.com/PitterPetter/PitterPetter_FE) · [Detail](https://yangjihun.com/projects/loventure)
 
+#### COMMIT
 
+> IT 동아리 COMMIT의 소개, 스터디 진행 상황, 프로젝트 포트폴리오를 한 곳에서 관리하는 공식 홈페이지
+
+- **Tech**: React 19, TypeScript, Vite, Tailwind CSS, React Router, Node.js
+- **Role**: Fullstack
+- **Period**: 2025.08 ~ 진행 중
+- **Links**: [Demo](https://fm-commit.com) · [Repo](https://github.com/yangjihun/FM-COMMIT) · [Detail](https://yangjihun.com/projects/commit-club)
 
 ### More
 
@@ -169,13 +196,13 @@
 
 - **Tech**: Python, FastAPI, SQLAlchemy, OpenAI API, LangSmith, Render
 - **Role**: Backend
-- **Period**: 2026.02 ~ 2026.02
+- **Period**: 2026.02
 - **Links**: [Repo](https://github.com/yangjihun/PrimerAI-Hackath)
 
 </details>
 
 <details>
-<summary><strong>DreamMap</strong> | AI 점수/리뷰/리라이팅 및 커리어 로드맵 제안 서비스</summary>
+<summary><strong>DreamMap</strong> | AI 점수, 리뷰, 리라이팅 및 커리어 로드맵 제안 서비스</summary>
 
 - **Tech**: React, TypeScript, Node.js, Express, MongoDB, Gemini, Azure Document Intelligence
 - **Role**: Fullstack
@@ -187,17 +214,17 @@
 <details>
 <summary><strong>XRPL EYES</strong> | XRPL 기반 서비스 UAW 대시보드</summary>
 
-- **Tech**: React, TypeScript, Vite, Recharts, Tailwind, MSW
+- **Tech**: React, TypeScript, Vite, Recharts, Tailwind CSS, MSW
 - **Role**: Frontend
-- **Period**: 2025.06 ~ 2025.07
+- **Period**: 2025.05 ~ 2025.07
 - **Links**: [Repo](https://github.com/yangjihun/xrpl-eyes)
 
 </details>
 
 <details>
-<summary><strong>SuME</strong> | AI 회의 음성 요약 & 캘린더 연동</summary>
+<summary><strong>SuME</strong> | AI 회의 음성 요약 및 캘린더 연동</summary>
 
-- **Tech**: React, Tailwind, React Router, FullCalendar
+- **Tech**: React, Tailwind CSS, React Router, FullCalendar
 - **Role**: Frontend
 - **Period**: 2025.01 ~ 2025.02
 - **Links**: [Repo](https://github.com/yangjihun/SuME)
@@ -205,10 +232,10 @@
 </details>
 
 <details>
-<summary><strong>JOB.PT</strong> | AI 트렌드 기반 직업/역량 추천 Streamlit 앱</summary>
+<summary><strong>JOB.PT</strong> | AI 트렌드 기반 직업 및 역량 추천 Streamlit 앱</summary>
 
 - **Tech**: Python, Streamlit, OpenAI API (gpt-4o-mini)
-- **Role**: LLM Engineer & Team Leader
+- **Role**: LLM Engineer, Team Leader
 - **Period**: 2024.11 ~ 2024.12
 - **Links**: [Repo](https://github.com/yangjihun/JOB.PT)
 
@@ -216,9 +243,9 @@
 
 ## Awards
 
-* **삼성 청년 SW·AI 아카데미 2학기 공통 프로젝트 최우수상** (2026.08)
-* **삼성 청년 SW·AI 아카데미 1학기 관통 프로젝트 최우수상** (2026.06)
-* **시나공 SQLD 우수 베타테스터** (2026.06)
+- **삼성 청년 SW·AI 아카데미 2학기 공통 프로젝트 최우수상** (2026.08)
+- **삼성 청년 SW·AI 아카데미 1학기 관통 프로젝트 최우수상** (2026.06)
+- **시나공 SQLD 우수 베타테스터** (2026.06)
 
 ## Certifications
 
@@ -232,17 +259,16 @@
 
 <div align="center">
 
-> JavaScript 런타임 기반 백엔드 생태계와 구조적인 서버 아키텍처를 깊게 학습하고 있습니다.
+> 백엔드 아키텍처와 안정적인 서비스 운영 역량을 깊게 학습하고 있습니다.
 
 <br/>
 
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
 <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
 <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FF4438" /
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FF4438" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
