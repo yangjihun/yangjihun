@@ -25,7 +25,6 @@
 
 #### 2026
 
-- **TeaCat NFT/SBT 티켓팅 서비스 개발** (2026.08 ~ 진행 중)
 - **SSAFY x 카카오테크 부트캠프 해커톤** (2026.05 ~ 2026.06)
 - **SSAFY x 우리은행 아이디어톤** (2026.05 ~ 2026.06)
 - **조코딩 × OpenAI × Primer AI 해커톤** (2026.02)
@@ -96,13 +95,21 @@
   <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 </p>
 
-### DevOps & Infrastructure
+### Deployment & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
+</p>
+
+### Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
+  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=F46800" />
 </p>
 
 ### Database
@@ -131,7 +138,9 @@
 
 > 커스터디 방식을 적용해 별도 지갑 설치 없이 이용할 수 있는 NFT/SBT 기반 티켓팅 서비스
 
-- **Tech**: ERC-20, NFT/SBT, Custody
+- **Tech**: Solidity, Hardhat, ethers.js, OpenZeppelin, IPFS, TypeScript, Node.js(Express),
+  Java, Spring Boot, Docker, Jenkins, Grafana, Prometheus, Loki
+- **Role**: BlockChain, Monitoring Infra
 - **Period**: 2026.08 ~ 진행 중
 - **Status**: 개발 진행 중
 
@@ -139,7 +148,7 @@
 
 > 학생 집중도를 실시간으로 분석하고 맞춤 리포트를 제공하는 AI 강의 플랫폼
 
-- **Tech**: Next.js, Spring Boot, LiveKit, MySQL, Redis
+- **Tech**: Next.js, Java, Spring Boot, LiveKit, MySQL, Redis
 - **Role**: Fullstack
 - **Period**: 2026.07 ~ 2026.08
 - **Links**: [Detail](https://yangjihun.com/projects/zani)
