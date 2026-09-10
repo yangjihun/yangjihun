@@ -111,6 +111,11 @@
   <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800" />
   <img src="https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=F46800" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Sentry-000000?style=for-the-badge&logo=sentry&logoColor=362D59" />
+  <img src="https://img.shields.io/badge/Microsoft%20Clarity-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCjxkZWZzPgogIDxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjEyIiB5MT0iMS41IiB4Mj0iMTIiIHkyPSIyMiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgPHN0b3Agc3RvcC1jb2xvcj0iIzlCRDJGRiIvPgogICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMkI3MkQ2Ii8%2BCiAgPC9saW5lYXJHcmFkaWVudD4KICA8Y2xpcFBhdGggaWQ9ImMiPgogICAgPHBhdGggZD0iTTEyIDEuNWMuOCAwIDEuNS40IDEuOSAxLjFsOS44IDE3Yy42IDEuMS0uMiAyLjQtMS41IDIuNEgxLjhDLjUgMjItLjMgMjAuNy4zIDE5LjZsOS44LTE3Yy40LS43IDEuMS0xLjEgMS45LTEuMXoiLz4KICA8L2NsaXBQYXRoPgo8L2RlZnM%2BCjxnIGNsaXAtcGF0aD0idXJsKCNjKSI%2BCiAgPHBhdGggZmlsbD0idXJsKCNhKSIgZD0iTTAgMGgyNHYyNEgweiIvPgogIDxwYXRoIGZpbGw9IiMyRjdFREIiIGQ9Ik00IDEzLjQgMTguMiA5LjQgMjQgMjAuMyAyNCAyNCAwIDI0eiIvPgogIDxwYXRoIGZpbGw9IiMxRjU5QkUiIGQ9Ik0zLjYgMTMuMiAyNCAyMi41VjI0SDB2LTQuMnoiLz4KPC9nPgo8L3N2Zz4%3D" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=E37400" />
+</p>
 
 ### Database
 
